@@ -38,7 +38,7 @@
 .column,
 .columns {
   width: 100%;
-  float: left;
+  float: center;
   box-sizing: border-box; }
 
 /* For devices larger than 400px */
@@ -54,7 +54,7 @@
     width: 80%; }
   .column,
   .columns {
-    margin-left: 4%; }
+    margin-center: 4%; }
   .column:first-child,
   .columns:first-child {
     margin-left: 0; }
